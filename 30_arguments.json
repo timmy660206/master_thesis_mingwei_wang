@@ -1,0 +1,212 @@
+[
+  {
+    "index": 1,
+    "topic": "Culture",
+    "claim": "This House would make all museums free of charge.",
+    "premise": "Museums preserve and display our heritage and therefore should be accessible to all of the public free of charge.",
+    "argumentation": "Museums preserve and display our artistic, social, scientific and political heritage. Everyone should have access to such important cultural resources as part of active citizenship and because of the educational opportunities they offer to people of every age. Glenn Lowry, director of the Museum of Modern Art, claims ‘it’s almost a moral duty that museums should be free’ (Smith, 2006). If museums are not funded sufficiently by the government, they will be forced to charge for entry, and this will inevitably deter many potential visitors, especially the poor and those whose educational and cultural opportunities have already been limited."
+  },
+  {
+    "index": 2,
+    "topic": "Culture",
+    "claim": "This House would permit the use of performance enhancing drugs in professional sports.",
+    "premise": "Athletes should be free to take risks when training and competing.",
+    "argumentation": "Freedom of choice: If athletes wish to take drugs in search of improved performances, let them do so. They harm nobody but themselves and should be treated as adults, capable of making rational decisions upon the basis of widely-available information. Even if there are adverse health effects in the long-term, this is also true of tobacco, alcohol and boxing, which remain legal."
+  },
+  {
+    "index": 3,
+    "topic": "Culture",
+    "claim": "This House would ban sexist advertising.",
+    "premise": "Sexist advertising is harmful to society, especially women. Women have a right to be free of stereotyping.",
+    "argumentation": "Sexist advertising harms women through objectification and diminishing of self-image. The United Nations Convention to Eliminate Discrimination Against Women (CEDAW) links stereotypes about women to prejudice based on gender. Women are portrayed as subservient to men and increasingly as sex objects, which legitimize violence against women. Eating disorders and obsessive beauty product consumption results from trying to attain ideal beauty images presented in the media."
+  },
+  {
+    "index": 4,
+    "topic": "Digital Freedoms",
+    "claim": "This house believes that internet access is a human right.",
+    "premise": "Internet access is a necessary part of the right to freedom of information and expression.",
+    "argumentation": "Freedom of expression and speech and freedom of information is a fundamental freedom and is article 19 in the universal declaration of human rights. This is usually taken to have three parts for governments to uphold: a duty to respect, for the government not to interfere with the freedom to impart information, a duty to protect, preventing interference with lawful communications and, a duty to fulfil, a duty to provide government held information.[1] Access to the internet falls within this. The duty to respect means that governments cannot block access for people wishing to use the internet to express themselves. The duty to protect means government should prevent others from interfering with internet users and the duty to fulfil could easily be taken just a little bit further to having to provide access to the internet. Freedom of expression therefore covers a freedom to access the internet as it already provides for a freedom to access mediums to express ones’ self."
+  },
+  {
+    "index": 5,
+    "topic": "Digital Freedoms",
+    "claim": "This House would post the full financial history of all candidates for political office online.",
+    "premise": "Financial dealings can indicate candidates’ willingness to circumvent the system/play by the rules.",
+    "argumentation": "A lot of politicians come from positions of prestige and power before seeking public office. Many politicians have wealth in their own right, or a base of wealthy supporters. Understanding where that wealth came from and how they used their privileged position is very important to citizens when choosing their leaders. Access to candidates’ financial information allows good candidates to show their honesty and financial uprightness, and sometimes even to display their talent and acumen that allowed them to succeed. More importantly, it allows people to scrutinize the dealings of politicians who used their often privileged position to avoid paying high taxes and to shield their wealth from the public taking its legal due. What these insights provide is a valuable snapshot of what candidates are willing to do to promote their own interests versus those of the state and society. It shows if there is a propensity to engage in morally dubious practices, and such behavior could well be extrapolated to be a potential incentive to corrupt practice. While tax avoidance is not illegal, it can well be considered unjust when rigorously applied, especially considered that the special knowledge necessary to profit from it belongs only to those of wealth and privilege. The value of this knowledge was made particularly clear in the case of Mitt Romney’s presidential bid. When Romney released his tax returns it became painfully clear that he was using the system to his advantage, at the expense of the taxpayer. Citizens deserve to know to what lengths, if any, those who wish to represent them are willing to game the system they would be elected to lead."
+  },
+  {
+    "index": 6,
+    "topic": "Digital Freedoms",
+    "claim": "This House would not allow companies to collect/sell the personal data of their clients",
+    "premise": "Collecting and selling personal information is a major violation of privacy.",
+    "argumentation": "The gathering of personal data that companies undertake is done in a fashion that is fundamentally invasive of individuals’ privacy. When individuals go online they act as private parties, often enjoying anonymity in their personal activities. Companies, particular online services, collate information and seek to use it to market products and services that are specifically tailored to those individuals. In the context of the internet, this means that individuals’ activities online are in fact susceptible to someone else’s interference and oversight, stealing from them the privacy and security the internet has striven to provide since its inception. At the most basic level, the invasion of privacy that collating and using private data gleaned from customers is unacceptable.[1] There is a very real risk of the information being misused, as the data can be held, and even resold to third parties that the customers never consented to giving their data and might well not want to come into possession of their personal details. This can lead to serious abuses of individuals’ private information by corporations, or indeed other agents that might have less savoury uses for the information, most obviously the more places your personal information is the more likely it is to be lost in a data breach with 267million records exposed in 2012.[2] Even when the information is not exposed it may be used in ways that have a real impact on the individual such as determining credit scores.[3] People as a matter of principle should have control over who gets access to their private information. Giving companies that are driven by profit motive to sell on their customers’ data to anyone that might offer a suitable price stands as an absolute theft of personal information and privacy."
+  },
+  {
+    "index": 7,
+    "topic": "Economy",
+    "claim": "This House believes in the use of affirmative action",
+    "premise": "Affirmative action removes the cyclical disadvantages of discrimination",
+    "argumentation": "Discrimination in the past leaves a legacy of disadvantage and perpetual poverty. Denial of opportunities for education and employment traps families in poverty. Affirmative action evens the playing field for those who have suffered past discrimination and provides equality of opportunity."
+  },
+  {
+    "index": 8,
+    "topic": "Economy",
+    "claim": "This House believes that there should be a legally mandated ceiling on weekly working hours",
+    "premise": "The market already limits worker hours when left to its own devices; no intrusion is required.",
+    "argumentation": "Long hours reducing worker effectiveness make a business less competitive. The invisible hand will remove businesses that exploit their workers more effectively than state regulation. Improvements in worker conditions come from private sector initiatives seeking to maximize profits."
+  },
+  {
+    "index": 9,
+    "topic": "Economy",
+    "claim": "This House believes in a national minimum wage",
+    "premise": "The minimum wage aids in the propagation of social justice and fair treatment of workers",
+    "argumentation": "Businesses in a free market seek to exploit workers to lower wages. The state intervenes by setting a minimum wage to stop exploitation, especially of the most vulnerable members of society. Minimum wage also aids in promoting social justice and equality by reducing wage disparities."
+  },
+  {
+    "index": 10,
+    "topic": "Education",
+    "claim": "This House believes university education should be free",
+    "premise": "The quality of education suffers when university education is free",
+    "argumentation": "Free higher education tends to benefit middle and upper classes more than disadvantaged groups. Poorer communities may still view higher education as for the rich and continue to prefer trade schools over universities. Funding should target true educational needs."
+  },
+  {
+    "index": 11,
+    "topic": "Education",
+    "claim": "This House believes that history has no place in the classroom",
+    "premise": "Teaching history ensures that events of the past are not forgotten",
+    "argumentation": "Organized forgetting of the past does not lead to harmony. Ignoring historical wrongs can create aggrieved parties. Historical awareness is essential to prevent repeating past mistakes and to provide balanced education."
+  },
+  {
+    "index": 12,
+    "topic": "Education",
+    "claim": "This House would make sex education mandatory in schools",
+    "premise": "Parents cannot be guaranteed to provide a suitable amount of sex education",
+    "argumentation": "Parents may be unsuited to teach about sexuality, resulting in inconsistent, biased, or incomplete education. Mandatory school sex education ensures all students receive adequate knowledge."
+  },
+  {
+    "index": 13,
+    "topic": "Environment",
+    "claim": "This House would ban animal testing",
+    "premise": "Some groups of people have less capacity for suffering than most animals",
+    "argumentation": "Experimenting on animals is morally complex. Morally consistent experimentation should avoid both animals and severely disabled humans. Prohibiting experimentation ensures ethical consistency."
+  },
+  {
+    "index": 14,
+    "topic": "Environment",
+    "claim": "This House would go vegetarian",
+    "premise": "Being vegetarian reduces risks of food poisoning",
+    "argumentation": "Many dangerous food poisoning cases are associated with meat, eggs, and dairy. Vegetarian diets avoid these risks, reducing illness from bacteria such as Salmonella and E-Coli."
+  },
+  {
+    "index": 15,
+    "topic": "Environment",
+    "claim": "This House would abolish agricultural subsidies.",
+    "premise": "Subsidy reform of the type proposed will undermine agricultural businesses in the developing world.",
+    "argumentation": "Even adamant anti subsidy advocates agree that abolishing current financial assistance measures will do more harm than good. Reform of current subsidy policies would achieve more than their complete elimination. Many family farms in the US and the EU are running on extremely slim profit margins, which are squeezed by supermarkets,[i] and eliminating their subsidy payments would devastate their incomes, forcing the sale of land and the sale or slaughter of livestock. The lacunae and negligent administrative conduct that anti-subsidy campaigners claim is characteristic of the policy’s overall inefficiency are simply design flaws that appropriate legislation can correct. Both the Rural America Preservation Act[ii] and the 2002 Farm Bill[iii] offer the opportunity to remove many of these negative traits from America’s farm subsidy regime. They will cap the amount given to large, heavily capitalised agricultural corporations. These policies will also assist in encouraging the conservation and husbandry of natural resources, and ensuring the health of existing farm soil. Policy makers already recognise the perversity of paying owners of farmland large sums simply to keep the land clear and ready for agricultural use, without also monitoring."
+  },
+  {
+    "index": 16,
+    "topic": "Health",
+    "claim": "This House would deny smokers access to state healthcare",
+    "premise": "Denying access to healthcare for smokers will lead to preventable deaths",
+    "argumentation": "In states like France, 12 million smokers could be denied care. Such policy risks lives and disproportionately affects people choosing a legal lifestyle."
+  },
+  {
+    "index": 17,
+    "topic": "Health",
+    "claim": "This House would ban alcohol",
+    "premise": "Banning alcohol protects third parties from harm",
+    "argumentation": "Alcohol contributes to disputes, distress, and psychological issues, particularly affecting children and family members. Laws against alcohol protect society."
+  },
+  {
+    "index": 18,
+    "topic": "Health",
+    "claim": "This House would ban the use of trans fats in food stuffs",
+    "premise": "A trans-fat ban would hurt small restaurants the most",
+    "argumentation": "Large chains have begun eliminating trans-fat, but small independent restaurants face challenges reformulating menus. Economic impact on small business can be significant."
+  },
+  {
+    "index": 19,
+    "topic": "Science",
+    "claim": "This House believes Google shouldn’t censor its search results in China",
+    "premise": "As a business, Google shouldn’t interfere with domestic politics",
+    "argumentation": "Google’s mission is to organize the world’s information and make it accessible. Interfering with China's politics contradicts its role and business purpose."
+  },
+  {
+    "index": 20,
+    "topic": "Science",
+    "claim": "This House believes downloading music without permission is morally equivalent to theft.",
+    "premise": "A legal transaction is the only way to achieve free exchange of value.",
+    "argumentation": "Intellectual property rights grant artists the moral and legal right to compensation. Free downloading bypasses these rights, effectively constituting theft."
+  },
+  {
+    "index": 21,
+    "topic": "Science",
+    "claim": "This House believes governments should choose open source software in order to encourage its use.",
+    "premise": "Open source software is more adaptable to government needs.",
+    "argumentation": "Open source software starts from a completely different viewpoint of how products should be created. Rather than resembling a traditional hierarchical organisation (such as an early twentieth century business, an army or a monastic order) where everyone has their own clearly defined role and are told how to proceed by a top-down central authority, open-source software development is more like an open market where everyone is engaged in the same activity but come at it from different directions."
+  },
+  {
+    "index": 22,
+    "topic": "Religion",
+    "claim": "This House would dissolve the Schengen Agreement",
+    "premise": "As the Schengen area gets bigger, policing becomes more difficult",
+    "argumentation": "New members increase complexity of border control. Terrorists and traffickers may exploit this, risking security of the entire EU."
+  },
+  {
+    "index": 23,
+    "topic": "Religion",
+    "claim": "This House would create a single European Union army",
+    "premise": "Regional instability necessitates a unified EU defense force.",
+    "argumentation": "Instability in Middle East and Northern Africa requires a dedicated force for protection. EU countries near volatile areas need coordinated defense."
+  },
+  {
+    "index": 24,
+    "topic": "Religion",
+    "claim": "This House would ban arranged marriages in EU countries.",
+    "premise": "It will cause resentment and make certain communities feel targeted.",
+    "argumentation": "Arranged marriages are seen as a very important aspect of the identity of lots of Euro-Asian communities. At a time when tensions between non-Muslims and Muslims in Europe are high enough, for example there were protests in London against the film innocence of Muslims,[1] targeting a practice carried out by many Muslim families could help extremist tendencies to flare up. It is important not try and cloak laws that are little more than blind intolerance with terms that make them seem like secular liberalism. Attempting to ban practices like wearing the veil in the name of inclusion have been proven to only inflame tensions, not improve integration.[2] Banning arranged marriages outright would therefore not only be intolerant, but potentially dangerous."
+  },
+  {
+    "index": 25,
+    "topic": "Philosophy",
+    "claim": "Kill One to Save Many (Junior).",
+    "premise": "We cannot make any judgments about whose life is valuable.",
+    "argumentation": "We cannot predict the outcomes for individuals. Making a choice to sacrifice one for many assumes knowledge we do not have. Attempting such calculation risks mistakes and harm."
+  },
+  {
+    "index": 26,
+    "topic": "Philosophy",
+    "claim": "This House would be a libertarian; right or left.",
+    "premise": "Libertarianism only works theoretically if starting conditions are ideal.",
+    "argumentation": "In reality, societies have existing inequalities and interest groups. Libertarian principles may not protect everyone equally due to historical and social disparities."
+  },
+  {
+    "index": 27,
+    "topic": "Philosophy",
+    "claim": "This House believes atheism is the only way.",
+    "premise": "Entirely natural theories can adequately explain the existence and development of the Universe and all it contains, making God irrelevant to the discussion of reality.",
+    "argumentation": "Physics and cosmology explain the development and evolution of the Universe and the bodies within it. Chemistry explains the interactions of substances and the origin of life. Biology explains the development of life’s complexity through the long process of evolution. God, or gods, is a superfluous entity in the discussion of existence; He is entirely unnecessary to human scientific understanding.[1] At best, believers can point to various missing links in science’s explanation, using God to fill the gaps. The God of the Gaps is a weak God whose domain grows smaller each day as science progresses. Furthermore, there is no evidence of the supernatural existing at all, if that is what God is meant to be. The burden of proof in a debate concerning the existence of something is on the individual making the positive claim. In a debate over the existence of God, it is up to the believer to provide evidence for that belief.[2] The rational position in the absence of evidence is atheism. It is not a positive claim about anything, but is merely the absence of belief in God, which makes sense in the light of there being no positive evidence of God’s existence. If believers claim God lives outside the Universe, or that He cannot be empirically identified due to His ethereal nature, then in truth they are saying nothing. Only the natural world exists insofar as humans can demonstrate. The supernatural is pure fantasy."
+  },
+  {
+    "index": 28,
+    "topic": "Society",
+    "claim": "This House believes that feminism is still needed.",
+    "premise": "Males still dominate the top positions.",
+    "argumentation": "Women still hold lower positions in business, the legal profession, and politics. Until women hold higher positions, the feminist cause has not achieved its goals, seeking a world where women can advance up the career ladder without being blocked by a glass ceiling."
+  },
+  {
+    "index": 29,
+    "topic": "Society",
+    "claim": "This House would grant an amnesty to illegal immigrants.",
+    "premise": "Immigrants are needed to make up for aging populations.",
+    "argumentation": "Much of the rich world is aging, and in a few cases is close to having a declining population. As a result the size of the available workforce will decrease. For example in Germany by 2050 a third of the population will be over 60,[1] and over the next 15 years will as a result loose five million workers from the current workforce of 41 million.[2] While increasing retirement age can mean that these reductions in the size of the workforce come later to maintain the size of the workforce immigration or a rapid increase in birth rate is necessary. These countries in order to maintain the size of their economies will therefore either have to rapidly increase productivity, which itself may not be easy as they are already the most productive nations, or else allow migrants to fill the gaps in the labour force. At the same time there will be an increase in some jobs that rely on migrants such as care workers to help look after the increasing number of elderly."
+  },
+  {
+    "index": 30,
+    "topic": "Society",
+    "claim": "Governments should prioritise spending money on youth.",
+    "premise": "Older people have paid into the system. Aging means we will be spending more on the old, not less.",
+    "argumentation": "There is simply no room to be increasing spending on young people as an Ageing population means that western nations are going to have to focus more resources on the elderly. A larger elderly population will mean less tax take for the government as there will be less people working, at the same time there will many unavoidable costs. The average cost of retires households to health services is £5200, compares to just £2800 for those who are not retired.[1]  The expansion and progress of medical science has been amazing, we can treat many conditions that were incurable. But this means many more are living longer with medical support, which is costly. A US study estimates total healthcare expenditures “increase substantially with longevity, from $36,000 for persons who die at the age of 65 to more than $230,000 for those who die at the age of 90”.[2]  Clearly the government cannot both increase spending on youth and pay more on healthcare for the elderly at the same time.  With healthcare a matter of life and death it seems clear which should be prioritised."
+  }
+]
